@@ -104,7 +104,9 @@
 
 **分裂战争** (The Schism War)：十一世纪初的一场战争，狄德涅学派在这场战争中被消灭，秘会几乎因此分裂。
 
-**扭曲点数** (Warping Score)：衡量角色遭受超自然异变程度的数值，随着角色暴露在魔法中而增加。
+**扭曲值** (Warping Score)：衡量角色长期遭受超自然异变程度的等级，通常随着扭曲点数的累积而提高。
+
+**扭曲点数** (Warping Points)：角色因长期暴露于强力魔法、异界力量或其他超自然影响而累积的点数；积累后会提升扭曲值，并可能触发黄昏。
 
 **窥探** (Scrying)：指使用魔法搜集其他法师的秘密情报，被法典明令禁止。
 
@@ -133,3 +135,80 @@
 **法师战争** (Wizards' War)：两名法师之间正式宣告、有时间限制的合法决斗。
 
 **法师狩猎** (Wizard's March)：秘会针对弃逐法师发动的集体追杀。
+
+**奥法连接** (Arcane Connection)：与特定人物、地点或物体之间存在的神秘联系，可让法师在远距离施法时锁定目标，并提高穿透能力。
+
+**大失败** (Botch)：在压力情境下发生的灾难性失败，通常需要掷失误骰来决定后果的严重程度。
+
+**失误骰** (Botch Dice)：用于判定是否发生大失败，以及大失败严重程度的附加骰；数量越多，出现严重后果的可能性越高。
+
+**危机** (Crisis)：角色在老化过程中遭遇的严重健康危机，常与衰朽等级提升同时发生。
+
+**工坊文本** (Laboratory Text)：记录法术、附魔效果或其他工坊成果的笔记，可帮助法师自己重现成果，或让其他法师据此复制。
+
+**简单骰** (Simple Die)：在没有明显压力的情况下使用的骰型，不会引发失误。
+
+**纤技** (Finesse)：用于精确操控魔法细节的技能，常见于工艺魔法、快速施法和其他需要精密控制的场合。
+
+**灵阶** (Regio)：叠置于凡俗地点之上的隐秘层域，不同层级常具有不同的辉环强度与进出条件。
+
+**灵视** (Second Sight)：能够看见或感知隐形之物、灵体、幻象与灵阶等超自然现象的能力。
+
+**魔法抗力** (Magic Resistance)：抵御超自然效果的能力；若法术或能力的穿透未超过它，就无法对目标生效。
+
+**魔法敏感** (Magic Sensitivity)：一种超自然能力，使角色能够感知辉环、法术、附魔装置与魔法生物的存在与强弱。
+
+**魔宠** (Familiar)：与法师建立神秘纽带的魔法生物，可与法师共享助益，并通过连结强化双方。
+
+**附魔装置** (Enchanted Device)：被注入魔法效果的物品，包含次等附魔装置与灌注装置两大类。
+
+**疲劳** (Fatigue)：表示角色体力与精神消耗程度的状态层级，许多行动、伤害与施法都会使其下降。
+
+**穿透** (Penetration)：法术或超自然能力突破目标魔法抗力、真正对其生效的能力。
+
+**压力骰** (Stress Die)：在危险、紧张或结果重要的情境下使用的骰型，既可能爆骰，也可能导致失误。
+
+**老化点** (Aging Point)：角色因老化而积累在属性上的点数，累积后会削弱属性，并可能导致衰朽加深。
+
+**专注** (Concentration)：角色在干扰、疼痛或分心环境中维持行动、法术或心智活动的能力。
+
+**黄昏** (Twilight)：法师因强烈魔法扭曲而进入的异常状态，可能带来启迪，也可能留下严重后果。
+
+**难度等级** (Ease Factor)：检定必须达到或超过的目标数值，用以衡量任务难度。
+
+**魔器** (Talisman)：法师与自身建立特殊联系的附魔物品，可进行同调，并在施法与研究中提供额外助益。
+
+
+## 法术名称对照表 Spell Names
+
+* **变蛙术** (Transformation of the Ravenous Beast to the Torpid Toad)
+* **钝化毒牙** (Blunt the Viper’s Fangs)
+* **野兽守护结界** (Circle of Beast Warding)
+* **蝰蛇凝视** (Viper’s Gaze)
+* **灵猫之眼** (Eyes of the Cat)
+* **熊之坚韧** (Gift of the Bear’s Fortitude)
+* **泣血之伤** (The Wound that Weeps)
+* **提线木偶** (Lifting the Dangling Puppet)
+* **怒风冲锋** (Charge of the Angry Winds)
+* **雷雨云** (Clouds of Rain and Thunder)
+* **夏雪云** (Clouds of Summer Snow)
+* **闪电咒** (The Incantation of Lightning)
+* **净化创口** (Purification of the Festering Wounds)
+* **人头幻影** (Phantom of the Talking Head)
+* **高贵仪态气场** (Aura of Ennobled Presence)
+* **穿透妖精之帷** (Piercing the Faerie Veil)
+* **穿透魔法之帷** (Piercing the Magical Veil)
+* **破解意象结构** (Unraveling the Fabric of Imaginem)
+* **凡庸静寂之风** (Wind of Mundane Silence)
+* **圆形御魔结界** (Circular Ward Against Demons)
+* **护身石墙** (Wall of Protecting Stone)
+* **水晶飞镖** (The Crystal Dart)
+* **粘土之岩** (Rock of Viscid Clay)
+* **坚固地基** (Earth that Breaks No More)
+* **破解金属屏障** (Obliteration of the Metallic Barrier)
+* **大地之痈** (The Earth’s Carbuncle)
+* **抓取之手** (Hands of the Grasping Earth)
+* **红绸火弧** (Arc of Fiery Ribbons)
+* **绯红闪焰** (Flash of the Scarlet Flames)
+* **火焰标枪** (Pilum of Fire)
+* **冬夏雪舞** (Show of the Summer and Winter Snow)
