@@ -1,14 +1,16 @@
-**秘艺** (Art)：赫尔墨斯魔法的组成要素，分为**型式** (Form) 与**技法** (Technique)。
+**秘艺** (Art)：赫尔墨斯魔法的组成要素，分为**型式** (Form) 与**技法** (Technique)。型式包括动物 (Animal)、水 (Aquam)、风 (Auram)、肉身 (Corpus)、植物 (Herbam)、火 (Ignem)、意象 (Imaginem)、心灵 (Mentem)、地 (Terram) 与原初 (Vim)。技法包括创生 (Creo)、全视 (Intellego)、万变 (Muto)、湮灭 (Perdo) 与掌控 (Rego)。
 
 **优势与劣势** (Virtues and Flaws)：描述角色在能力、背景或超自然天赋上的加成（优势）或限制与障碍（劣势）。
 
-**属性** (Characteristics)：角色的先天特质，共有八项：智力 (Int)、感知 (Per)、力量 (Str)、耐力 (Sta)、仪态 (Pre)、沟通 (Com)、灵巧 (Dex) 和机敏 (Qik)。
+**属性** (Characteristics)：角色的先天特质，共有八项：智力 (Int/Intelligence)、感知 (Per/Perception)、力量 (Str/Strength)、耐力 (Sta/Stamina)、仪态 (Pre/Presence)、沟通 (Com/Communication)、灵巧 (Dex/Dexterity) 和机敏 (Qik/Quickness)。
 
 **比约奈尔** (Bjornaer)：十二学派之一，成员关注野兽与人性中的兽性面向，拥有化身为“心兽”的能力。
 
 **博尼萨格斯** (Bonisagus)：八世纪杰出的法师，在其他创始者的帮助下，他开发了绛咒进而使得整个赫尔墨斯秘法发展壮大。同时也是博尼萨格斯学会的创始人。
 
 **教会** (The Church)：所有基督徒，无论是否为牧师。也用来特指西欧教会的组织结构。
+
+**典仪魔法** (Ceremonial Magic)
 
 **法师决斗** (Certamen)：由特里梅雷奠基人发明的法师间的仪式化决斗，常用于解决争端。
 
