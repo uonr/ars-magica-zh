@@ -194,37 +194,18 @@
 
 **魔器** (Talisman)：法师与自身建立特殊联系的附魔物品，可进行同调，并在施法与研究中提供额外助益。
 
+**魅幻** (Glamour)：是妖精必须遵从的象征性规则体系，定义其本质、外貌、力量与行为禁忌。
 
-## 法术名称对照表 Spell Names
+**认知度** (Cognizance)：妖精理解自身对人类需求的程度。分三个层级——**无认知** (Incognizant)：完全不知自己以人类的恐惧与情绪为食；**狭隘认知** (Narrowly Cognizant)：知道自己需要人类，但只理解单一的收割机制，记忆在躯体重建后得以保留；**高度认知** (Highly Cognizant)：完全了解自身本质，能主动寻找人类以改变角色、开发新力量。
 
-* **变蛙术** (Transformation of the Ravenous Beast to the Torpid Toad)
-* **钝化毒牙** (Blunt the Viper’s Fangs)
-* **野兽守护结界** (Circle of Beast Warding)
-* **蝰蛇凝视** (Viper’s Gaze)
-* **灵猫之眼** (Eyes of the Cat)
-* **熊之坚韧** (Gift of the Bear’s Fortitude)
-* **泣血之伤** (The Wound that Weeps)
-* **提线木偶** (Lifting the Dangling Puppet)
-* **怒风冲锋** (Charge of the Angry Winds)
-* **雷雨云** (Clouds of Rain and Thunder)
-* **夏雪云** (Clouds of Summer Snow)
-* **闪电咒** (The Incantation of Lightning)
-* **净化创口** (Purification of the Festering Wounds)
-* **人头幻影** (Phantom of the Talking Head)
-* **高贵仪态气场** (Aura of Ennobled Presence)
-* **穿透妖精之帷** (Piercing the Faerie Veil)
-* **穿透魔法之帷** (Piercing the Magical Veil)
-* **破解意象结构** (Unraveling the Fabric of Imaginem)
-* **凡庸静寂之风** (Wind of Mundane Silence)
-* **圆形御魔结界** (Circular Ward Against Demons)
-* **护身石墙** (Wall of Protecting Stone)
-* **水晶飞镖** (The Crystal Dart)
-* **粘土之岩** (Rock of Viscid Clay)
-* **坚固地基** (Earth that Breaks No More)
-* **破解金属屏障** (Obliteration of the Metallic Barrier)
-* **大地之痈** (The Earth’s Carbuncle)
-* **抓取之手** (Hands of the Grasping Earth)
-* **红绸火弧** (Arc of Fiery Ribbons)
-* **绯红闪焰** (Flash of the Scarlet Flames)
-* **火焰标枪** (Pilum of Fire)
-* **冬夏雪舞** (Show of the Summer and Winter Snow)
+**角色** (Role)：妖精与人类互动所扮演的固定符号集合，是妖精存在的核心。
+
+**伪能** (Pretenses)：妖精模拟人类技能的微小魔力，是魅幻的一种表达，不消耗能量点，也无需专注。
+
+**精神锚点** (Spiritual Anchor)：妖精将魅幻注入其中的实体物件，是妖精凝聚躯体的核心。
+
+**妖精源质类型**：包裹源质 (Encased Vis)、积存源质 (Accrued Vis)、沉睡源质 (Sleeping Vis)、抽象源质 (Abstract Vis)
+
+**阈限状态** (Liminal States)：妖精作为"边界之灵"所栖居的状态——生与死、荒野与文明、一个人生阶段与下一阶段之间的边界。人类在跨越人生阶段或冒险进入危险之地时元气最为充沛，因此也最易与妖精相遇。
+
+**地名**：阿卡迪亚 (Arcadia)、妖精之国 (Faerieland)、径道 (Trod)、妖精之路 (Faerie Roads)、运尸路 (Corpse Roads)、门户妖精 (Threshold Faerie)、无主之地 (Terra Nullius)
