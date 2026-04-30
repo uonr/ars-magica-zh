@@ -202,6 +202,18 @@
 
 **仙魅魔法** (Faerie Magic)：墨里尼塔学派法师通过启入外层奥秘后习得的奥秘技能。
 
+**妖精巫术** (Faerie Wizardry)：利用妖精感通施行的树篱巫术，主要包括妖精仪式 (Faerie Rites) 与妖精议约 (Faerie Bargaining)。使用者称妖精巫师 (Faerie Wizard)，有时称妖精树篱巫师。
+
+**妖精技法与妖精力量** (Faerie Methods and Powers)：妖精仪式的两类组成要素。妖精技法包括唤灵 (Evocation)、附魔 (Enchantment)、移情 (Empathy)；妖精力量包括诱导 (Beguile)、幻造 (Conjure)、梦境 (Dream)、赋赐 (Grant)、搬移 (Portage)、庇护 (Ware)、安康 (Weal)、灾厄 (Woe)。
+
+**奇幻技艺** (Ars Fabulosa)：围绕凡人与妖精议约的新兴妖精树篱巫术传统。相关议约秘艺包括召唤 (Summoning)、连结 (Bonding)、迷魅 (Captivating) 与遣散 (Dismissing)。
+
+**妖精威能** (Faerie Might)：妖精的威能值或超自然力量强度；消耗资源称妖精威能点 (Faerie Might Points)。
+
+**妖精等级** (Faerie Rank)：衡量角色与妖精域联系深浅的规则数值。
+
+**符印优势** (Charmed Virtues)：通过符印 (Charm) 维持的优势。
+
 **感通** (Sympathy)：通过妖精域与特定对象类别建立的神秘关联，可呈正向或负向。
 
 **感通特征** (Sympathy Traits)：角色与特定对象类别之间的感通表现，常作为妖精魔法与相关检定的条件或加值来源。
@@ -225,3 +237,5 @@
 **阈限状态** (Liminal States)：妖精作为"边界之灵"所栖居的状态——生与死、荒野与文明、一个人生阶段与下一阶段之间的边界。人类在跨越人生阶段或冒险进入危险之地时元气最为充沛，因此也最易与妖精相遇。
 
 **地名**：**乐土** (Elysium)、**阿卡迪亚** (Arcadia)、**优多基亚** (Eudokia)。*天命之路* (Path of Destiny)、*机遇之路* (Path of Chance) 与*抉择之路* (Path of Choice)。妖精之国 (Faerieland)、径道 (Trod)、妖精之路 (Faerie Roads)、运尸路 (Corpse Roads)、门户妖精 (Threshold Faerie)、无主之地 (Terra Nullius)
+
+**妖精感召** (Faerie Calling)：妖精域对凡人或半妖精角色发出的神秘召唤，促使其放弃凡俗生活、走入妖精域的超自然冲动或事件。
